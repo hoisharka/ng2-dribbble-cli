@@ -1,6 +1,6 @@
 # ng2-dribbble-cli
 ng2-dribbble 오픈 소스 프로젝트를 angular-cli 로 작성해봤다.
-- 원본 프로젝트 소스: https://github.com/mohammedzamakhan/ng2-dribbble
+- 원본 프로젝트: https://github.com/mohammedzamakhan/ng2-dribbble
 - 원본 프로젝트 데모: http://angular2tips.com/#/snaps
 - angular-cli : https://cli.angular.io/
 
