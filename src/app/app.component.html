@@ -1,3 +1,8 @@
-<h1>
-  {{title}}
-</h1>
+<div>
+  <nav class="navbar navbar-dark navbar-fixed-top bg-primary bg-faded">
+    <div class="collapse navbar-toggleable-xs container" id="navbar-header">
+      <a class="navbar-brand" [routerLink]="['/']">NG2 Dribbble</a>
+    </div>
+  </nav>
+  <router-outlet></router-outlet>
+</div>
